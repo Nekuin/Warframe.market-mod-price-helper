@@ -1,4 +1,8 @@
-# RUN
+# IDEA
+
+Find the most profitable mods to trade on warframe.market
+
+## RUN
 
 node index.js
 or
